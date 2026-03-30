@@ -115,16 +115,7 @@ Actualmente desbloqueando el **árbol de habilidades GameDev** con Unreal Engine
 ╚══════════════════════════════════════════════════════════╝
 ```
 
----
-
 <div align="center">
-
-## 🏆 HIGH SCORES
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=azaelsanchez&show_icons=true&hide_border=true&include_all_commits=true&title_color=FF00FF&icon_color=39FF14&text_color=00FFFF&bg_color=000000&ring_color=FF00FF)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azaelsanchez&layout=compact&hide_border=true&title_color=FF00FF&text_color=00FFFF&bg_color=000000)
-
-<br/>
 
 ```
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
