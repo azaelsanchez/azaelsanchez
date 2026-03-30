@@ -119,7 +119,9 @@ Actualmente desbloqueando el **árbol de habilidades GameDev** con Unreal Engine
 
 ```
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-           CONTINUE?   9 ... 8 ... 7 ...
+
+           CONTINUE?   9 ... 8 ... 7
+...
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
