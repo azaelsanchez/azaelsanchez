@@ -30,13 +30,13 @@
 ║   CLASS  ►  SOFTWARE DEVELOPER                           ║
 ║   SPEC   ►  GAMEPLAY & TOOLS PROGRAMMER                  ║
 ║                                                          ║
-║   EXP    ►  ██████████████████████  +5 YEARS             ║
+║   EXP    ►  ██████████████████████  6 YEARS              ║
 ║   STATUS ►  UNLOCKING GAMEDEV SKILL TREE...              ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-Desarrollador con **+5 años de XP** en arquitecturas robustas y desarrollo Full Stack.
+Desarrollador con **6 años de XP** en arquitecturas robustas y desarrollo Full Stack.
 Dominio profundo de **C#, .NET, Java y JavaScript** — especializado en sistemas empresariales críticos del sector sanitario.
 
 Actualmente desbloqueando el **árbol de habilidades GameDev** con Unreal Engine 5 y C++, aplicando mi experiencia en optimización y sistemas complejos al mundo de los videojuegos.
